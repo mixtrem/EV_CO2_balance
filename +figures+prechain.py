@@ -2,7 +2,7 @@
 """
 Created on Sun Jan  5 19:58:51 2025
 
-@author: P50
+@author: avemaster
 """
 
 import matplotlib.pyplot as plt
